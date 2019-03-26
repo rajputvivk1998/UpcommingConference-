@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 26 Mar 2019 11:59:15 at http://ghriit.raisoni.net/NCRTCSITM/ncrtcsit2019/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://ghriit.raisoni.net/NCRTCSITM/ncrtcsit2019/ -O1 "C:\My Web Sites\conf" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:00:28	Error: 	"Not Found" (404) at link ghriit.raisoni.net/NCRTCSITM/ncrtcsit2019/www.ghriit.raisoni.net (from ghriit.raisoni.net/NCRTCSITM/ncrtcsit2019/)
+12:01:23	Warning: 	File not parsed, looks like binary: ghriit.raisoni.net/NCRTCSITM/ncrtcsit2019/fonts/Flaticon.html
+12:01:23	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/conf/ghriit.raisoni.net/NCRTCSITM/ncrtcsit2019/fonts/Flaticon.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 8 seconds : 72 links scanned, 70 files written (3037064 bytes overall) [3055395 bytes received at 23870 bytes/sec], 3.0 requests per connection
+(1 errors, 2 warnings, 0 messages)
